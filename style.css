@@ -99,6 +99,7 @@ color: #E0B612;
 .notify-section{
     width: 35%;
     margin: 0 auto;
+    display: none;
 }
 .action-left {
     color: #FF3C5F;
